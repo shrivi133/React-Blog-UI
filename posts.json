@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Mastering React Component Architecture",
+    "category": "React",
+    "date": "2026-03-10",
+    "excerpt": "Learn how to structure scalable, reusable frontend components effectively."
+  },
+  {
+    "id": 2,
+    "title": "Modern Responsive Styling with CSS Grid & Flexbox",
+    "category": "CSS",
+    "date": "2026-03-15",
+    "excerpt": "Deep dive into creating clean, adaptable web layouts without heavy external UI frameworks."
+  },
+  {
+    "id": 3,
+    "title": "Building Scalable REST APIs in Node.js",
+    "category": "Backend",
+    "date": "2026-03-22",
+    "excerpt": "Essential patterns and architectural decisions for production-ready Express backends."
+  },
+  {
+    "id": 4,
+    "title": "Modern JavaScript (ES6+) Features Every Dev Should Know",
+    "category": "JavaScript",
+    "date": "2026-03-28",
+    "excerpt": "Destructuring, rest/spread operators, arrow functions, and async/await explained simply."
+  },
+  {
+    "id": 5,
+    "title": "State Management & Hooks Overview",
+    "category": "React",
+    "date": "2026-04-02",
+    "excerpt": "Best practices when using useState, useEffect, and custom hooks in frontend development."
+  }
+]
